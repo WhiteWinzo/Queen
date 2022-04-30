@@ -48,7 +48,7 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var OWNER = { number: '94705193038,15712103262' }
-const OWNER2 = '94705193038,0'
+const OWNER2 = '94706768067,0'
 // . https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
     var i = 0, args = arguments;
