@@ -1,7 +1,7 @@
 {
-  "name": "Queen Bot",
-  "version": "1.0.0",
-  "description": "Queen Bot happy for whatsapp.",
+  "name": "Queenbot",
+  "version": "1.0.",
+  "description": "Queenbot happy for whatsapp.",
   "main": "/Queen/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -16,7 +16,7 @@
     "ai",
     "api",
     "unlimited",
-    "Queen",
+    "asenadev",
     "machine learning",
     "automatic",
     "whatsapp web",
