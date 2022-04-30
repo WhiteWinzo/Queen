@@ -1,0 +1,5 @@
+build: 
+  docker: 
+      worker: /Queen/Dockerfile
+run:
+   worker: npm start
