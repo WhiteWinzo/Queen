@@ -31,7 +31,7 @@
   "homepage": "https://github.com/DarkWinzo/Queen",
   "dependencies": {
    
-    "Queen": "^1.0.0",
+    "aquabot": "^1.0.0",
     "hxz-api": "^1.0.1",
     "emoji-api": "^2.0.1",  
     "cobra_dl": "^1.0.11",
