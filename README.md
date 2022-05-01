@@ -4,7 +4,7 @@
 
 <div align="center">
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Courier&color=000874&width=610&height=60&lines=Welcome+To+Sl%20Queen-Bot+%F0%9F%91%8B;%F0%9F%87%B1%F0%9F%87%B0+Queen_Bot+is+a+Helper+WhatsApp+Bot;Written%20By+@DarkWinzo+with+Baileys;Queen%20+Bot+has+a+lot+of+Features;Commans+Including+Logo+Maker+%26+Meadia+Downloader.;Thank+For+Visiting+Queen-Bot+%F0%9F%92%97)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Courier&color=000874&width=610&height=60&lines=Welcome+To+Sl%20Queen-Bot+%F0%9F%91%8B;%F0%9F%87%B1%F0%9F%87%B0+Queen_Bot+is+a+Helper+WhatsApp+Bot;Written%20By+@DarkWinzo+with+Baileys;Queen%20+Bot+has+a+lot+of+Features;Commans+Including+Logo+Maker+%26+Meadia+Downloader.;Thank+For+Visiting+Queen-Bot+%F0%9F%92%97)](https://git.io/typing-svg)
   
   </div>
 
@@ -45,12 +45,12 @@
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
+🚫Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Queen Bot executives do not accept responsibility.
 By establishing the Queen Bot, you are deemed to have accepted these responsibilities.
 
-Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ හැකිය.(.ban කමාන්ඩ් වැරදි ලෙස ගැහුවොත්)
+🚫Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ හැකිය.(.ban කමාන්ඩ් වැරදි ලෙස ගැහුවොත්)
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය.
 නියත වශයෙන්ම Queen Bot විධායකයින් වගකීම භාර නොගනී.
 Queen Bot පිහිටුවීමෙන් ඔබ මෙම වගකීම් බාර ගත් බව සැලකේ.
