@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/f2dCVX6/Queen-Bot.jpg" width="500" height="600"/>
+  <img border-radius: 15px src="https://i.ibb.co/f2dCVX6/Queen-Bot.jpg" width="500" height="500"/>
  
 
 [![Stars](https://img.shields.io/github/stars/DarkWinzo/Queen?style=flat-square&color=yellow)](https://github.com/DarkWinzo/Queen/stargazers)
