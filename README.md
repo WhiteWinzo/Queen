@@ -1,4 +1,4 @@
-<h1>🎀 𝗤𝘂𝗲𝗲𝗻 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 🎀</h1>
+             <h1>🎀 𝗤𝘂𝗲𝗲𝗻 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 🎀</h1>
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@ Queen Bot පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## Developers
     
-  [![DarkWinzo](https://github.com/RAVANA-SL.png?size=100)](https://github.com/DarkWinzo)
+  [![DarkWinzo](https://github.com/DarkWinzo.png?size=100)](https://github.com/DarkWinzo)
 --------
 [DarkWinzo](https://github.com/DarkWinzo)  
 Developer,Bug Fixes, Commits, Modules, Code Owner, Bug Fixes, Modules 
