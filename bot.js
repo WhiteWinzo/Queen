@@ -48,7 +48,7 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var OWNER = { number: '94705193038,15712103262' }
-const OWNER2 = '94705193038,0'
+const OWNER2 = '94775200935,0'
 // . https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
     var i = 0, args = arguments;
@@ -71,7 +71,7 @@ Array.prototype.remove = function() {
     return this;
 };
 
-async function Queenbot () {
+async function Queen () {
     await config.DATABASE.sync();
     var Session_Db = await cobraDB.findAll({
         where: {
@@ -762,4 +762,4 @@ ${chalk.blue.italic('ℹ️ WhatsApp වෙත සම්බන්ධ වෙම�
     }
 }
 
-Queenbot();
+Queen();
