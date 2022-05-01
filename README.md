@@ -14,7 +14,6 @@
   <img border-radius: 15px src="https://i.ibb.co/f2dCVX6/Queen-Bot.jpg" width="500" height="600"/>
  
 
-
 [![Stars](https://img.shields.io/github/stars/DarkWinzo/Queen?style=flat-square&color=yellow)](https://github.com/DarkWinzo/Queen/stargazers)
 [![Forks](https://img.shields.io/github/forks/DarkWinzo/Queen?style=flat-square&color=orange)](https://github.com/DarkWinzo/Queen/fork)
 [![Size](https://img.shields.io/github/repo-size/DarkWinzo/Queen?style=flat-square&color=green)](https://github.com/DarkWinzo/Queen/) 
@@ -27,11 +26,13 @@
 
   ### Simple Method
   
-[![Run on Repl.it](https://replit.com/@DarkWinzo/Queen-Bot-QR-Code?v=1)
+### QR CODE
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DarkWinzo/Queen-Bot-QR-Code?v=1)
 
+### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkWinzo/Queen)
-     </div>
-      
+</div>
+
         
 ### ⚠️ Warning! 
 ```
